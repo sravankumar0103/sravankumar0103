@@ -1,24 +1,8 @@
-<h1 align="center" style="font-size:44px; font-weight:700;">
-  Hey, I'm Sravan Kumar Diddi
-</h1>
+# Hey, I'm Sravan Kumar Diddi
 
-<p align="center">
-  <hr style="width:40%; border:1px solid #30363d;">
-</p>
+### AI & Full Stack Developer
 
-<h2 align="center" style="font-weight:600; color:#58A6FF; margin-top:10px;">
-  AI & Full Stack Developer
-</h2>
-
-<p align="center" style="margin-top:6px;">
-  <span style="display:inline-block; width:80px; height:2px; background:#58A6FF;"></span>
-</p>
-
-<p align="center" style="margin-top:10px; font-size:15px; opacity:0.7;">
-  Turning ideas into real systems
-</p>
-
-<br/>
+<sub>Turning ideas into real systems</sub>
 
 ---
 
