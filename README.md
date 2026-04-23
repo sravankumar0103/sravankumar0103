@@ -1,8 +1,8 @@
-# Hey, I'm Sravan Kumar Diddi
+<h1 align="center">Hey, I'm Sravan Kumar Diddi</h1>
 
-### AI & Full Stack Developer
+<h3 align="center">AI & Full Stack Developer</h3>
 
-<sub>Turning ideas into real systems</sub>
+<p align="center"><sub>Turning ideas into real systems</sub></p>
 
 ---
 
