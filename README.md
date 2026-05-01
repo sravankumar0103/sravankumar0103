@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sravankumardiddi.netlify.app/" target="_blank">
+  <a href="https://sravankumardiddi.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
 </p>
